@@ -169,6 +169,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact us at support@oguzhanb.com.
+For any questions or inquiries, please contact us at porttuneler@oguzhanb.com.
 
 This plan follows a logical progression from core infrastructure to user-facing features while maintaining focus on security and scalability. Each phase builds upon the previous ones and includes necessary testing and documentation components.
